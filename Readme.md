@@ -1,5 +1,5 @@
 # PingPong Game
-The classic Ping-Pong Game designed using HTML, CSSm JavaScript.
+The classic Ping-Pong Game designed using HTML, CSS, JavaScript.
 
 ## Build With :
 <ul>
